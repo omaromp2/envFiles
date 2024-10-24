@@ -1,5 +1,6 @@
 # envFiles
---- 
+---
 This are a few of my env files.
 
-* Kitty 
+* Kitty
+* Wez-Term
